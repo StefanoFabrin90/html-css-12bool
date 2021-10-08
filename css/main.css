@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
-    background-color: lightblue;
 }
+
 
 h1 {
     text-align: center;
@@ -21,3 +21,15 @@ h1 {
     border: 1px solid black;
     text-align: center;
 }
+
+.container {
+    margin-bottom: 40px;
+}
+
+.box-empty {
+    height: 40px;
+    background: cyan;
+    border: 1px solid black;
+    text-align: center;
+}
+
