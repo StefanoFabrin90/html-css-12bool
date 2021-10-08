@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.box {
+    padding: 10px;
+    background: cyan;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.box-nested {
+    padding: 10px;
+    background:chartreuse;
+    border: 1px solid black;
+    text-align: center;
+}
