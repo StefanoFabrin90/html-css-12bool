@@ -8,28 +8,28 @@ h1 {
     margin: 2rem 0;
 }
 
-.box {
-    padding: 10px;
-    background: cyan;
-    border: 1px solid black;
-    text-align: center;
-}
-
-.box-nested {
-    padding: 10px;
-    background:chartreuse;
-    border: 1px solid black;
-    text-align: center;
-}
-
-.container {
-    margin-bottom: 40px;
-}
-
 .box-empty {
-    height: 40px;
-    background: cyan;
-    border: 1px solid black;
-    text-align: center;
+    height: 50px;
+}
+
+.box-1 {
+    height: 50px;
+    background: #da372c;
+}
+.box-2 {
+    height: 50px;
+    background: #007445;
+}
+.box-3 {
+    height: 50px;
+    background: #f7b314;
+}
+.box-4 {
+    height: 50px;
+    background: #000c86;
+}
+.box-5 {
+    height: 50px;
+    background: black;
 }
 
