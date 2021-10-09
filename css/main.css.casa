@@ -8,27 +8,7 @@ h1 {
     margin: 2rem 0;
 }
 
-.box {
-    height: 40px;
-    background: blue;
-    border: 1px solid black;
-    text-align: center;
-}
-
-.box-nested {
-    height: 40px;
-    background:chartreuse;
-    border: 1px solid black;
-    text-align: center;
-}
-
 .box-empty {
-    height: 50px;
-    border: 1px solid black;
-    background:blue
-}
-
-.box-empty-bonus {
     height: 50px;
 }
 
@@ -52,4 +32,3 @@ h1 {
     height: 50px;
     background: black;
 }
-
